@@ -1,0 +1,73 @@
+body{
+    background: rgb(0, 2, 99);
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar :hover{
+    color: royalblue;
+}
+
+.container{
+    width: 1000px;
+    min-height: 100px;
+}
+
+#komentar{
+    padding-top: 5rem;
+    color: rgb(0, 2, 99);
+}
+
+#about{
+    padding-top: 12rem;
+}
+
+#Education{
+    padding-top: 12rem;
+}
+
+#Experiences{
+    padding-top: 4rem;
+}
+
+#Experiences h1{
+    padding-bottom: 2rem;
+}
+
+#Contact{
+    padding-top: 4rem;
+    padding: 4rem;
+}
+
+#Contact ul{
+    padding-top: 3rem;
+}
+
+#Skill ul{
+    list-style-type: none;
+    padding-top: 3rem;
+}
+
+#Skill{
+    padding-top: 6rem;
+}
+
+.jumbotron{
+    padding-top: 4rem;
+}
+
+h1{
+    color: beige;
+}
+
+table{
+    border: 5cm beige;
+    background-color: rgb(0, 2, 99);
+    color: beige;
+    align-self: center;
+    text-align: center;
+}
+
+#Schedule{
+    padding-top: 3rem;
+}
